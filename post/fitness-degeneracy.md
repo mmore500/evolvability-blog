@@ -33,4 +33,4 @@ Much like the game of rock, paper, scissors, each morph outcompetes one morph an
 No single phenotypic strategy is favored by the environment.
 Although their strategies for survival and reproduction vary greatly, each lizard morph can be successful.
 
-![image](img/lizards){width="70.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/lizards.png){width="70.00000%"}

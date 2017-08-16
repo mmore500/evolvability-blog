@@ -1,4 +1,4 @@
-Complexification {#sec:complexification}
+Complexification
 ================
 
 Definition
@@ -33,3 +33,9 @@ These intermediate phenotypic structures, each elaborating on an existing phenot
 The complexification of vertebrate eyes was enabled by the nature of the biological genotype-phenotype mapping.
 The biological genotype-phenotype mapping mapping is capable of accommodating increased amounts of genetic information describing an existing phenotypic trait and translating that new information into refinement of the existing phenotypic trait.
 For example, in the transition from light sensitive patches to photosensitive pouches the genotype-phenotype mapping accommodated new information altering the shape of the surface in which light sensitive cells are embedded while preserving the general arrangement and connectivity of the light sensitive cells.
+
+![image](http://devosoft.org/wp-content/uploads/2017/08/worm_eye.png)
+![image](http://devosoft.org/wp-content/uploads/2017/08/limpet_eye.png)
+![image](http://devosoft.org/wp-content/uploads/2017/08/murex_eye.png)
+![image](http://devosoft.org/wp-content/uploads/2017/08/nautilus_eye.png)
+![image](http://devosoft.org/wp-content/uploads/2017/08/octopus_eye.png)

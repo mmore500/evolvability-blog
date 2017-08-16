@@ -4,7 +4,7 @@ Environmental Influence on Phenotype
 Definition
 ----------
 
-The mantra $P = G + E$, stating that phenotype is a product of both genotype and environment, has come to be universally accepted among biologists.
+The mantra `P = G + E`, stating that phenotype is a product of both genotype and environment, has come to be universally accepted among biologists.
 On a basic level, it is clear that, because biological organisms do not exist in a vacuum, they are physically influenced by their environments.
 Temperature, chemical substances, electromagnetic radiation, and other external physical phenomena directly act upon biological organisms.
 

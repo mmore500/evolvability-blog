@@ -1,4 +1,4 @@
-Modularity {#sec:modularity}
+Modularity
 ==========
 
 Definition

@@ -1,4 +1,4 @@
-Developmental Constraint {#sec:developmental_constraint}
+Developmental Constraint
 ========================
 
 Definition
@@ -32,4 +32,4 @@ hypothesize that this canalization results from the developmental process, “as
 It seems that the nature of the developmental process makes heritable variation for bilaterally asymmetric traits in *Drosophila* more difficult to come by.
 A cartoon summarizing the outcome of these experiments is provided in Figure \[fig:fly\_canalization\].
 
-\[\]\[!h\] ![image](img/fly_canalization){width="50.00000%"}
+\[\]\[!h\] ![image](http://devosoft.org/wp-content/uploads/2017/08/fly_canalization.png){width="50.00000%"}

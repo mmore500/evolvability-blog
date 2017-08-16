@@ -1,4 +1,4 @@
-Regularity {#sec:regularity}
+Regularity
 ==========
 
 Definition
@@ -32,4 +32,4 @@ Example
 The phenotypic regularity exhibited by *Aloe polyphylla* is an important adaptation.
 Phyllotaxis, the regular arrangement of leaves in plants, by minimizing the conflict between leaves for light, promotes efficient photosynthesis @Kappraff2004GrowthNumber.
 
-![image](img/aloe){width="70.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/aloe.png){width="70.00000%"}

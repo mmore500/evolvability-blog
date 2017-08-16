@@ -1,4 +1,4 @@
-Indirect Plasticity {#sec:indirect_plasticity}
+Indirect Plasticity
 ===================
 
 Definition
@@ -37,4 +37,4 @@ coli* provide a textbook example of phenotypic alteration in response to environ
 These bacteria selectively express an enzyme used in the digestion of lactose, $\beta$-galactosidase in the presence of lactose when alternate food sources, such as glucose, are unavailable.
 This phenotypic change is mutable; in the absence of lactose or the presence of glucose production of $\beta$-galactosidase halts @Griffiths2015IntroductionAnalysis.
 
-![image](img/tadpoles){width="50.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/tadpoles.png){width="50.00000%"}

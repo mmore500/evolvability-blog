@@ -36,4 +36,4 @@ The phenotype is generally considered to be more strongly governed by genetic in
 The retraction of brain organization activity brain into the initial embryological phase of life thus corresponds to the second phase of the Baldwin Effect, a shift towards stronger genetic influence on traits related to brain organization originally discovered by local phenotypic search.
 Under this hypothesis, brain structures that were originally obtained by learning (local phenotypic search) became increasingly encoded in the genotype.
 
-![A schematic illustrating local search in a phenotypic landscape.<span data-label="fig:baldwin_effect"></span>](img/baldwin_effect){width="80.00000%"}
+![A schematic illustrating local search in a phenotypic landscape.<span data-label="fig:baldwin_effect"></span>](http://devosoft.org/wp-content/uploads/2017/08/baldwin_effect.png){width="80.00000%"}

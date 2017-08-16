@@ -1,4 +1,4 @@
-Intraindividual Degeneracy {#sec:intraindividual_degeneracy}
+Intraindividual Degeneracy
 ==========================
 
 Definition
@@ -36,4 +36,4 @@ Processing of the compound dT, in particular, is accomplished via both TK1 and T
 The ability of an organism to metabolize the dT DNA precursor is thus more robust to perturbations that disable one of Tk1 or Tk2.
 Additionally, Tk1 and Tk2 both serve as jumping-off points for evolutionary innovation via the repurposing of either enzyme.
 
-![image](img/intraindividual_degeneracy){width="70.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/intraindividual_degeneracy.png){width="70.00000%"}

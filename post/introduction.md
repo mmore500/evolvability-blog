@@ -26,7 +26,7 @@ How does evolvability manifest in biological organisms (i.e.
 what traits of biological organisms provide explanations for the presence of viable heritable variation among offspring)? Why does evolvability manifest (i.e.
 what ultimate mechanistic forces endow biological organisms with traits that promote evolvability)? Addressing these two questions gives us a shot at tackling a third: how can evolvability be promoted in evolutionary algorithms? We will proceed to explore these questions, but let’s begin by priming our intuition for evolvability by considering an artificial selection experiment performed on *Drosophila melangoster*, common fruit flies.
 
-![Wild-type and mutant strains of *Arabidopsis thaliana* @Griffiths2015IntroductionAnalysis<span data-label="fig:arabidopsis_mutants"></span>](img/arabidopsis_mutations.png){width="60.00000%"}
+![Wild-type and mutant strains of *Arabidopsis thaliana* @Griffiths2015IntroductionAnalysis<span data-label="fig:arabidopsis_mutants"></span>](http://devosoft.org/wp-content/uploads/2017/08/arabidopsis_mutations.png){width="60.00000%"}
 
 [^1]: This statement does not suggest that mutation is nonrandom, a controversial and widely discredited theory referred to biologists as adaptive mutation.
 Instead, it is predicated on the notion that the internal configuration of a biological system (i.e.

@@ -1,4 +1,4 @@
-Canalization {#sec:canalization}
+Canalization
 ============
 
 Definition
@@ -23,3 +23,5 @@ Developmental constraint is a form of canalization.
 The developmental constraint revealed by artificial selection experiments performed on *Drosophila melanogaster* illustrate canalization well.
 These experiments, presented in Section \[sec:fly\_symmetry\], revealed heritable bilaterally symmetric phenotypic variation is more readily accessible than bilaterally asymmetric variation.
 Hence, *Drosophila* exhibits canalization against systematic asymmetry.
+
+![image](http://devosoft.org/wp-content/uploads/2017/08/canalization_example.png){width="50.00000%"}

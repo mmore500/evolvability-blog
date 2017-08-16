@@ -1,4 +1,4 @@
-Temporally Varying Goals {#sec:tvg}
+Temporally Varying Goals
 ========================
 
 Definition
@@ -60,12 +60,12 @@ robustness)
 
 among hummingbirds evolved in a temporally varying environment compared to a population of hummingbirds that exist in a static environment.
 
-\[\]<span>0.1</span> ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](img/hbird_flower "fig:"){width="\textwidth"}
+\[\]<span>0.1</span> ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_flower.png){width="\textwidth"}
 
 \[\]<span>0.45</span>
 
-\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](img/hbird_lowevol "fig:"){width="\textwidth"}
+\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_lowevol.png){width="\textwidth"}
 
 \[\]<span>0.45</span>
 
-\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](img/hbird_highevol "fig:"){width="\textwidth"}
+\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_highevol.png){width="\textwidth"}

@@ -1,4 +1,4 @@
-Indirect Encoding {#sec:indirect-encoding}
+Indirect Encoding
 =================
 
 Definition
@@ -51,4 +51,4 @@ Like their multicellular counterparts, unicellular creatures exhibit phenotypic 
 Such regularity might manifest in, for example, repeated occurrence of identical or near-identical functional subunits (i.e.
 many identical proteins, ribozymes, etc.).
 
-\[fig:dna\_encoding\] ![image](img/dna_encoding){width="70.00000%"}
+\[fig:dna\_encoding\] ![image](http://devosoft.org/wp-content/uploads/2017/08/dna_encoding.png){width="70.00000%"}

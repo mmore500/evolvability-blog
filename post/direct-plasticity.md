@@ -1,4 +1,4 @@
-Direct Plasticity {#sec:direct_plasticity}
+Direct Plasticity
 =================
 
 Definition

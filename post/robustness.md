@@ -1,4 +1,4 @@
-Robustness {#sec:robustness}
+Robustness
 ==========
 
 Definition

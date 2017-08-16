@@ -35,6 +35,6 @@ This element of phenotypic diversity, which occurs in both forms within populati
 That is, the trait does not affect how an individual interacts with his or her environment to determine his or her fitness.
 Hence, diversity in earlobe attachment represents interindividual degeneracy.
 
-\[b\]<span>0.3</span> ![image](img/attached_earlobe){width="\textwidth"}
+\[b\]<span>0.3</span> ![image](http://devosoft.org/wp-content/uploads/2017/08/attached_earlobe.png){width="\textwidth"}
 
-\[b\]<span>0.3</span> ![image](img/detached_earlobe){width="\textwidth"}
+\[b\]<span>0.3</span> ![image](http://devosoft.org/wp-content/uploads/2017/08/detached_earlobe.png){width="\textwidth"}

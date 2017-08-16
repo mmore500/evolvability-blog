@@ -1,4 +1,4 @@
-Duplication and Divergence {#sec:duplication_and_divergence}
+Duplication and Divergence
 ==========================
 
 Definition

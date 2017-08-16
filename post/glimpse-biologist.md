@@ -21,7 +21,7 @@ Mutations affecting the regulatory pathways that regulate somatotropin productio
 Dog breeds, which exhibit a range of body weights nearly spanning an entire order of magnitude, evidence the accessibility of heritable variation for body size in animals.
 Among certain groups of dogs, much of this variation can be explained by just six genes, several of which are associated with pathways somatotropin participates in @Rimbault2013DerivedBreeds..
 
-\[\]\[!h\] ![image](img/fly_canalization){width="50.00000%"}
+\[\]\[!h\] ![image](http://devosoft.org/wp-content/uploads/2017/08/canalization_example.png){width="50.00000%"}
 
 [^1]: Recent research implicates somatotropin in a number of processes unrelated to its classical association with metabolism and growth.
 Although the phenotypic consequences of mutations affecting somatotropin pathways are not exclusively limited to body size, somatotropin response nonetheless provides an avenue for heritable phenotypic variation in that regard.

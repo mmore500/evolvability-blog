@@ -1,4 +1,4 @@
-Hidden Genetic Variation {#sec:hidden_genetic_variation}
+Hidden Genetic Variation
 ========================
 
 Definition

@@ -1,4 +1,4 @@
-Introductory Glimpses of Evolvability for Computer Scientists {#sec:glimpses-computer-scientists}
+Introductory Glimpses of Evolvability for Computer Scientists
 =============================================================
 
 Computer scientists who have worked on software understand that two pieces of code that meet identical specifications — return identical output for any input given — can differ vastly in difficulty to extend, modify, or maintain.
