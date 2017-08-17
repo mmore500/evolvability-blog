@@ -5,7 +5,7 @@ While biological phenotypic adaptation is indeed spectacular, another marvel of 
 It is hypothesized that biological organisms exhibit adaptation to the evolutionary process itself, not just to their environment over the course of their lifespans.
 That is, biological organisms are thought to possess traits that facilitate successful evolutionary search.
 The term evolvability was coined to describe such traits.
-A general consensus exists in the literature that evolvability stems from traits that facilitate the generation of *novel* heritable phenotypic variation that is *viable*.[^1] Evolvability can be conceived of concretely by imagining a gallery of offspring as depicted in Figure `arabidopsis_mutants`.
+A general consensus exists in the literature that evolvability stems from traits that facilitate the generation of *novel* heritable phenotypic variation that is *viable*.[^1] Evolvability can be conceived of concretely by imagining a gallery of offspring as depicted in Figure `arabidopsis_mutants` [[Griffiths, 2015]](#Griffiths2015IntroductionAnalysis).
 Evolvability is determined by the composition of this gallery, the degree to which variation introduced by mutation is deleterious and the amount of phenotypic diversity observed among the offspring in the gallery.
 An organism among whose potential offspring exist a nontrivial number of individuals that have relatively fit phenotypic forms that exhibit significant structural diversity among themselves and in relation to their parent is highly evolvable.
 
@@ -26,7 +26,7 @@ How does evolvability manifest in biological organisms (i.e.
 what traits of biological organisms provide explanations for the presence of viable heritable variation among offspring)? Why does evolvability manifest (i.e.
 what ultimate mechanistic forces endow biological organisms with traits that promote evolvability)? Addressing these two questions gives us a shot at tackling a third: how can evolvability be promoted in evolutionary algorithms? We will proceed to explore these questions, but let’s begin by priming our intuition for evolvability by considering an artificial selection experiment performed on *Drosophila melangoster*, common fruit flies.
 
-![Wild-type and mutant strains of *Arabidopsis thaliana* @Griffiths2015IntroductionAnalysis<span data-label="fig:arabidopsis_mutants"></span>](http://devosoft.org/wp-content/uploads/2017/08/arabidopsis_mutations.png){width="60.00000%"}
+![Wild-type and mutant strains of *Arabidopsis thaliana* ](http://devosoft.org/wp-content/uploads/2017/08/arabidopsis_mutations.png)
 
 [^1]: This statement does not suggest that mutation is nonrandom, a controversial and widely discredited theory referred to biologists as adaptive mutation.
 Instead, it is predicated on the notion that the internal configuration of a biological system (i.e.
@@ -34,3 +34,10 @@ the developmental process, modularity, degeneracy, etc.) constrains the outcomes
 It is hypothesized that biological organisms possess traits that influence the distribution of phenotypic effects of random mutation.
 
 [^2]: This can be thought of in terms of the frequency at which lethal or otherwise severely harmful mutational outcomes are observed.
+
+References
+----------
+<a name="Griffiths2015IntroductionAnalysis">
+Griffiths, A. J. F., Wessler, S. R., Carroll, S. B., and Doebley, J. F. (2015). Introduction
+to genetic analysis
+</a>

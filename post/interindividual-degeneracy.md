@@ -30,11 +30,19 @@ Example
 Earlobe attachment in *Homo sapiens sapiens* provides an illustrative example of interindividual degeneracy.
 This phenotypic trait is distributed over a spectrum between attachment and detachment.
 The extremes of this spectrum are illustrated in Figure `earlobe`.
-This trait is widely understood to be genetically determined @Dutta1979EarlobeAssam.
+This trait is widely understood to be genetically determined [[Dutta, 1979] ]](#Dutta1979EarlobeAssam).
 This element of phenotypic diversity, which occurs in both forms within populations around the world, seems to be functionally neutral.
 That is, the trait does not affect how an individual interacts with his or her environment to determine his or her fitness.
 Hence, diversity in earlobe attachment represents interindividual degeneracy.
 
-\[b\]<span>0.3</span> ![image](http://devosoft.org/wp-content/uploads/2017/08/attached_earlobe.png){width="\textwidth"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/attached_earlobe.png)
 
-\[b\]<span>0.3</span> ![image](http://devosoft.org/wp-content/uploads/2017/08/detached_earlobe.png){width="\textwidth"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/detached_earlobe.png)
+
+References
+----------
+
+<a name="Dutta1979EarlobeAssam">
+Dutta, M. N. (1979). Earlobe Attachment Among the Ahom od Dibrugarh, Upper Assam.
+Current Anthropology, 20(2):399.
+</a>

@@ -13,18 +13,18 @@ Indirect encodings can be broken down into two categories: expanded and generati
 In an expanded indirect encoding, a one-to-one relationship exists between information in the genotype and in the phenotype, but the encoding lacks independent control of each phenotypic characteristic by a single genotypic entry.
 That is, altering one piece of genetic information can affect multiple phenotypic characteristics.
 In a generative indirect encoding, the one-to-one relationship between phenotypic characteristics and genetic information is relaxed.
-Such an indirect encoding is deemed generative because, typically, a large number of phenotypic characteristics are generated from a smaller amount of genetic information via a developmental process @Downing2015IntelligenceSystems [p 175].
+Such an indirect encoding is deemed generative because, typically, a large number of phenotypic characteristics are generated from a smaller amount of genetic information via a developmental process [[Downing, 2015, p 175]](#Downing2015IntelligenceSystems).
 
 Relation to Evolvability
 ------------------------
 
 Generative indirect encodings are generally biased towards phenotypic regularity (Section \[sec:regularity\]) because phenotypic information is generated from a smaller amount of genetic information.
-Developmental processes may allow for genetic information to be reused to describe different characteristics of the phenotype in a systematic manner @Clune2011OnRegularity.
+Developmental processes may allow for genetic information to be reused to describe different characteristics of the phenotype in a systematic manner [[Clune et al., 2011]](#Clune2011OnRegularity).
 Thus, phenotypic patterns — e.g.
 regularity — tend to be observed.
-Experiments by @Cheney2013UnshacklingEncoding with soft bodied robots illustrate this point elegantly.
+Experiments by [[Cheney et al., 2013]](#Cheney2013UnshacklingEncoding) with soft bodied robots illustrate this point elegantly.
 Virtual soft-bodied robots evolved for locomotion using an indirect encoding based on Compositional Pattern Producing Networks display greater regularity than their directly encoded peers, manifesting in the robots as large contiguous patches of identical tissue type.
-Figure , which compares representative direct encoded and indirect encoded champions, illustrates the impact of indirect encodings on regularity.
+Figure `direct_irregular_vs_indirect_regular`, which compares representative direct encoded and indirect encoded champions, illustrates the impact of indirect encodings on regularity.
 
 Example
 -------
@@ -39,7 +39,7 @@ Quantifying the amount of phenotypic information in an elephant is a nontrivial 
 However, the claim that a cell constituting the elephant contains more information than a single base pair should be noncontroversial.
 As the number of cells constituting an elephant far outstrip the number of base pairs in its genome, the elephant also nicely illustrates the disequilibrium between phenotypic characteristics and genotypic information enabled by indirect encoding.
 As would be expected, regularity is observed on many phenotypic aspects of the elephant, from its bilateral symmetry to the repeated occurrence of many near-identical proteins and cellular structures in each of the trillions of cells throughout the elephant.
-@Clune2011OnRegularity offer a similar comparison, perhaps a little closer to home, pointing out that in humans 25 000 genes describe a phenotype consisting of trillions of cells.
+[[Clune et al., 2011]](#Clune2011OnRegularity) offer a similar comparison, perhaps a little closer to home, pointing out that in humans 25 000 genes describe a phenotype consisting of trillions of cells.
 
 These two examples comparing genetic information to phenotypic characteristics in massively multicellular creatures might seem overly convenient.
 Unicellular creatures, for example, do not afford such a stark observation.
@@ -51,4 +51,22 @@ Like their multicellular counterparts, unicellular creatures exhibit phenotypic 
 Such regularity might manifest in, for example, repeated occurrence of identical or near-identical functional subunits (i.e.
 many identical proteins, ribozymes, etc.).
 
-\[fig:dna\_encoding\] ![image](http://devosoft.org/wp-content/uploads/2017/08/dna_encoding.png){width="70.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/dna_encoding.png)
+
+`direct_irregular_vs_indirect_regular`
+![image](http://devosoft.org/wp-content/uploads/2017/08/direct_encoding.png)
+
+![image](http://devosoft.org/wp-content/uploads/2017/08/cppn-neat_encoded.png)
+
+References
+----------
+
+<a name="Cheney2013UnshacklingEncoding">
+Cheney, N., Maccurdy, R., Clune, J., and Lipson, H. (2013). Unshackling Evolution:
+Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding.
+</a>
+
+<a name="Clune2011OnRegularity">
+Clune, J., Stanley, K. O., Pennock, R. T., and Ofria, C. (2011). On the performance of
+indirect encoding across the continuum of regularity. IEEE Transactions on Evolutionary Computation.
+</a>

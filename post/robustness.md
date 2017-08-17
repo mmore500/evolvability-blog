@@ -5,7 +5,7 @@ Definition
 ----------
 
 Robustness generally refers to the ability of a system’s function to persist under perturbation.
-Biological systems exhibit robustness on three levels, as identified in @Richter2015EvolvabilitySurvey:
+Biological systems exhibit robustness on three levels, as identified in [[Richter et al., 2015]](#Richter2015EvolvabilitySurvey):
 
 1.
  system functionality is not degraded by stochastic fluctuations in the system, \[item:robustness\_stochastic\]
@@ -30,11 +30,28 @@ The waves of electric potential that govern the function of the heart are genera
 However, the heart is not a totally robust organ: it can be susceptible to ventricular fibrillation, where normal heart function is essentially halted by the emergence of a spiral wave pattern of electrical activation \[cite\].
 In many cases, the consequences of the heart not being able to recover from the perturbation that induced the spiral wave pattern of activation are fatal.
 
-Duplicate genes exemplify robustness at level \[item:robustness\_genetic\] @Gu2003EvolutionMutations.
-It has been shown that deletion duplicate genes have a significantly lower proportion of fatal outcomes and a significantly higher proportion of weak or no effect outcomes in *Saccharomyces cerevisiae* (yeast) @Gu2003EvolutionMutations.
-Robustness is also provided by alternate metabolic pathways and regulatory networks that can compensate for the absence of a gene @Gu2003EvolutionMutations.
+Duplicate genes exemplify robustness at level \[item:robustness\_genetic\] [[Gu, 2013]](#Gu2003EvolutionMutations).
+It has been shown that deletion duplicate genes have a significantly lower proportion of fatal outcomes and a significantly higher proportion of weak or no effect outcomes in *Saccharomyces cerevisiae* (yeast) [[Gu, 2013]](#Gu2003EvolutionMutations).
+Robustness is also provided by alternate metabolic pathways and regulatory networks that can compensate for the absence of a gene [[Gu, 2013]](#Gu2003EvolutionMutations).
 
 Finally, robustness at level \[item:robustness\_environment\] is exhibited by the brown rat (*Rattus norvegicus*).
-This creature has been wildly successful in a wide range of environments — today, its range spans nearly the entire globe — that differ vastly from the environment where it originated @Wikipediacontributors2016BrownRat.
+This creature has been wildly successful in a wide range of environments — today, its range spans nearly the entire globe — that differ vastly from the environment where it originated [[Wikipedia contributors, 2016]](#Wikipediacontributors2016BrownRat).
 In fact, *Rattus norvegicus* is particularly notorious for thriving in urban areas, a completely novel environment that only came into existence in their current form over the last millennium or so.
 The brown rat displays impressive robustness to environmental variation.
+
+References
+----------
+
+<a name="Gu2003EvolutionMutations">
+Gu, X. (2003). Evolution of duplicate genes versus genetic robustness against null mutations.
+</a>
+
+<a name="Richter2015EvolvabilitySurvey">
+Richter, A., Botsch, M., and Menzel, S. (2015). Evolvability of representations in
+complex system engineering: A survey. In 2015 IEEE Congress on Evolutionary Computation, CEC 2015
+- Proceedings.
+</a>
+
+<a name="Wikipediacontributors2016BrownRat">
+Wikipedia contributors (2016). Brown rat.
+</a>

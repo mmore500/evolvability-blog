@@ -17,13 +17,14 @@ The coexistence of speciated populations within the same ecosystem that exploit 
 This degeneracy, the ability of radically different fitness strategies to coexist within the biosphere, has vastly expanded the breadth of phenotypic form explored by evolution.
 
 A related approach is to set a vast number of separate, diverse evolutionary objectives, which approximates the infinite number of niches created by the ever-changing natural world.
-Such optimization leads to frequent goal-switching, as lineages fit on one objective invade other objectives, which rewards lineages that produce behaviorally diverse offspring and increases evolvability @Mengistu2016EvolvabilityIt
+Such optimization leads to frequent goal-switching, as lineages fit on one objective invade other objectives, which rewards lineages that produce behaviorally diverse offspring and increases evolvability
+[[Mengistu et al., 2016]](#Mengistu2016EvolvabilityIt).
 
 Example
 -------
 
 The male mating patterns of *Uta stansburiana*, a lizard found in the coast range of California, illustrates fitness degeneracy — how different strategies stemming from phenotypic diversity can be successful in terms of fitness.
-Male *Uta stansburiana* are found in three morphs: orange, blue, and yellow @Sinervo1996TheStrategies.
+Male *Uta stansburiana* are found in three morphs: orange, blue, and yellow [[Sinervo and Lively, 1996]](#Sinervo1996TheStrategies).
 The orange morph is characterized as “hyper-masculine.” It staunchly defends its territory and will battle male trespassers.
 Lizards of the yellow morph are “sneakers.” They pass themselves off as females to get past other males.
 The blue morph is described as the “mate-guarding” morph.
@@ -33,4 +34,17 @@ Much like the game of rock, paper, scissors, each morph outcompetes one morph an
 No single phenotypic strategy is favored by the environment.
 Although their strategies for survival and reproduction vary greatly, each lizard morph can be successful.
 
-![image](http://devosoft.org/wp-content/uploads/2017/08/lizards.png){width="70.00000%"}
+![image](http://devosoft.org/wp-content/uploads/2017/08/lizards.png)
+
+References
+----------
+
+<a name="Mengistu2016EvolvabilityIt">
+Mengistu, H., Lehman, J., and Clune, J. (2016). Evolvability Search: Directly Selecting
+for Evolvability in order to Study and Produce It. GECCO Proceedings.
+</a>
+
+<a name="Sinervo1996TheStrategies">
+Sinervo, B. and Lively, C. (1996). The rock-paper-scissors game and the evolution
+of alternative male strategies. Nature, 380(6571):240–243.
+</a>

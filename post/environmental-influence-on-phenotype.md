@@ -24,4 +24,12 @@ Example
 Himalayan rabbits provide a charismatic example of environmental influence on the phenotype.
 These rabbits carry a gene that produces melanin, giving their fur a brown color.
 However, this gene is only active at temperatures significantly below body temperature so the brown coloration is typically only observed on the outer extremities of the rabbit.
-If a Himalayan rabbit is reared at a temperature above the threshold for melanin creation, however, the gene will be inactivated throughout the rabbits body and a pure white phenotype will be observed @Lobo2008EnvironmentalExpresssion.
+If a Himalayan rabbit is reared at a temperature above the threshold for melanin creation, however, the gene will be inactivated throughout the rabbits body and a pure white phenotype will be observed [[Lobo, 2008]](#Lobo2008EnvironmentalExpresssion).
+
+
+References
+----------
+
+<a name="Lobo2008EnvironmentalExpresssion">
+Lobo, I. (2008). Environmental Influences on Gene Expresssion. Nature Education, 1(1):39.
+</a>

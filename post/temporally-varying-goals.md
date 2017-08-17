@@ -13,7 +13,7 @@ Thus the fitness-related goals of these organisms — that is, the specification
 Relation to Evolvability
 ------------------------
 
-Evolutionary simulations have revealed that gradual changes to the environment — that is, a temporally varying fitness function — promote desirable characteristics related to evolvability including robustness, modularity, and individual evolvability @Kashtan2007VaryingEvolution [@Wilder2015ReconcilingEvolvability].
+Evolutionary simulations have revealed that gradual changes to the environment — that is, a temporally varying fitness function — promote desirable characteristics related to evolvability including robustness, modularity, and individual evolvability [[Kashtan et al., 2007]](#Kashtan2007VaryingEvolution) [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability).
 It is thought that a gradually shifting fitness function might induce evolutionary pressure for these traits, essentially providing a means of selecting for them.
 
 Robustness would be essential in a temporally varying goals scheme, allowing to persist under environmental conditions different from those of their ancestors.
@@ -23,14 +23,14 @@ point out that modularity is a particularly important trait because, throughout 
 
 On the level of the organism, for example, the same subgoals, such as feeding, mating, and moving, must be fulfilled in each new environment but with different nuances and combinations.
 On the level of cells, the same subgoals such as adhesion and signaling must be fulfilled in each tissue type but with different input and output signals.
-On the level of proteins, the same subgoals, such as enzymatic activity, binding to other proteins, regulatory input domains, etc., are shared by many proteins but with different combinations in each case @Kashtan2007VaryingEvolution.
+On the level of proteins, the same subgoals, such as enzymatic activity, binding to other proteins, regulatory input domains, etc., are shared by many proteins but with different combinations in each case [[Kashtan et al., 2007]](#Kashtan2007VaryingEvolution).
 
-In fact, phenotypic modularity has been observed to emerge spontaneously in artificial evolution experiments performed with a temporally varying fitness function @Kashtan2007VaryingEvolution.
+In fact, phenotypic modularity has been observed to emerge spontaneously in artificial evolution experiments performed with a temporally varying fitness function [[Kashtan et al., 2007]](#Kashtan2007VaryingEvolution).
 
 Finally, under a temporally varying goals regimen, individuals that are predisposed to yielding variable offspring are advantaged over individuals that do not.
 Although much of that variation is likely not to be useful, some of it is likely to be and will allow to exert dominance over individuals without fresh adaptation to the changing environmental conditions.
 As Wilder, et al.
-put it, “if selection sets a moving target, individuals will be more likely to introduce variation in their offspring to adapt to an uncertain future; mutations to the genotype will be more likely to result in phenotypic change” @Wilder2015ReconcilingEvolvability.
+put it, “if selection sets a moving target, individuals will be more likely to introduce variation in their offspring to adapt to an uncertain future; mutations to the genotype will be more likely to result in phenotypic change” [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability).
 By inducing a selective pressure for individuals capable of generating relatively swift adaptive change to track changing environmental conditions, temporally varying goals promote a number of essential traits related to evolvability.
 
 Example
@@ -60,12 +60,21 @@ robustness)
 
 among hummingbirds evolved in a temporally varying environment compared to a population of hummingbirds that exist in a static environment.
 
-\[\]<span>0.1</span> ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_flower.png){width="\textwidth"}
+![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function [Kashtan et al., 2007].](http://devosoft.org/wp-content/uploads/2017/08/hbird_flower.png)
 
-\[\]<span>0.45</span>
+![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function [Kashtan et al., 2007].](http://devosoft.org/wp-content/uploads/2017/08/hbird_lowevol.png)
 
-\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_lowevol.png){width="\textwidth"}
+![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function [Kashtan et al., 2007].](http://devosoft.org/wp-content/uploads/2017/08/hbird_highevol.png)
 
-\[\]<span>0.45</span>
+References
+----------
 
-\[b\] ![A hypothetical illustration of how individual evolvability might be selected for under a modularly varying fitness function @Kashtan2005SpontaneousMotifs.<span data-label="fig:hummingbird_selection_pressure"></span>](http://devosoft.org/wp-content/uploads/2017/08/hbird_highevol.png){width="\textwidth"}
+<a name="Kashtan2007VaryingEvolution">
+Kashtan, N., Noor, E., and Alon, U. (2007). Varying environments can speed up
+evolution. Proceedings of the National Academy of Sciences, 104(34):13711–13716.
+</a>
+
+<a name="Wilder2015ReconcilingEvolvability">
+Wilder, B. and Stanley, K. (2015). Reconciling explanations for the evolution of
+evolvability. Adaptive Behavior, 23(3):171–179.
+</a>
