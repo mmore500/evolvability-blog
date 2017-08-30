@@ -34,7 +34,7 @@ melanogaster. Journal of Heredity, 78(119).
 </a>
 
 <a name="Devesa2016MultipleGrowth">
-Devesa, J., Almengl´o, C., and Devesa, P. (2016). Multiple Effects of Growth Hormone
+Devesa, J., Almenglo, C., and Devesa, P. (2016). Multiple Effects of Growth Hormone
 in the Body: Is it Really the Hormone for Growth? Clinical medicine insights. Endocrinology and diabetes,
 9:47–71.
 </a>

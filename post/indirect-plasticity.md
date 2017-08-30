@@ -64,7 +64,7 @@ to genetic analysis.
 </a>
 
 <a name="Moczek2011TheInnovation">
-Moczek, A. P., Sultan, S., Foster, S., Led´o N-Rettig, C., Dworkin, I., Nijhout, H. F.,
+Moczek, A. P., Sultan, S., Foster, S., Ledo N-Rettig, C., Dworkin, I., Nijhout, H. F.,
 Abouheif, E., and Pfennig, D. W. (2011). The role of developmental plasticity in evolutionary innovation.
 Proc. R. Soc. B.
 </a>
