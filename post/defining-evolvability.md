@@ -34,12 +34,12 @@ Hence, evolutionary innovation depends the production of heritable, novel phenot
 
 Unfortunately, evolvability has become a bit of a chameleon term in the literature.
 It has been used to describe a constellation of related ideas.
-Evolvability can be discussed in terms of both *viability* and *novelty* in isolation from one another.
+Evolvability can be discussed in terms of both *viability* and *novelty* in isolation from one another [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability), [[Reisinger et al., 2005]](#Reisinger2005TowardsEvolvability).
 In this sense, an organism with offspring that tend to be viable or tend to express novel phenotypic characteristics might be described as evolvable.
-Evolvability can also be discussed in terms of the intersection of *viability* and *novelty*.
+Evolvability can also be discussed in terms of the intersection of *viability* and *novelty* [[Tarapore and Mouret, 2015]](#Tarapore2015EvolvabilityBenchmarks).
 Framed this way, an organism among whose potential offspring exist a nontrivial proportion of relatively fit individuals that exhibit significant phenotypic diversity among themselves and in relation to their parent is considered evolvable.
 Finally, evolvability can be discussed from a more functional perspective.
-Evolvability might be assessed through this lens by considering the ability of a population to achieve evolutionary innovation over a longer term.
+Evolvability might be assessed through this lens by considering the ability of a population to achieve evolutionary innovation over a longer term [[Reisinger et al., 2005]](#Reisinger2005TowardsEvolvability).
 We will return to discussing these different perspectives on evolvability in more detail later on.
 
 Defining evolvability leaves many questions open.
@@ -60,4 +60,18 @@ References
 <a name="Griffiths2015IntroductionAnalysis">
 Griffiths, A. J. F., Wessler, S. R., Carroll, S. B., and Doebley, J. F. (2015). Introduction
 to genetic analysis
+</a>
+
+<a name="Reisinger2005TowardsEvolvability">
+Reisinger, J., Stanley, K. O., and Miikkulainen, R. (2005). Towards an Empirical
+Measure of Evolvability. GECCO05 Proceedings.
+</a>
+
+<a name="Tarapore2015EvolvabilityBenchmarks">
+Tarapore, D. and Mouret, J. B. (2015). Evolvability signatures of generative encodings: Beyond standard performance benchmarks. Information Sciences.
+</a>
+
+<a name="Wilder2015ReconcilingEvolvability">
+Wilder, B. and Stanley, K. (2015). Reconciling explanations for the evolution of
+evolvability. Adaptive Behavior, 23(3):171–179.
 </a>
