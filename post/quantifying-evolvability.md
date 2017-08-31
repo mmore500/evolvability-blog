@@ -14,7 +14,7 @@ evolutionary systems with high evolvability, such as the ability to
 adapt to new, untested environments
 [[Tarapore and Mouret, 2015]](#Tarapore2015EvolvabilityBenchmarks).
 
-Reisinger et al. employ an evolvability measure that specifically targets acquired evolvability, bias towards viable variation learned in response to the fitness structure of a particular environment[[Reisinger et al., 2005]](#Reisinger2005TowardsEvolvability).
+Reisinger et al. employ an evolvability measure that specifically targets acquired evolvability, bias towards viable variation learned in response to the fitness structure of a particular environment [[Reisinger et al., 2005]](#Reisinger2005TowardsEvolvability).
 In their words, their measure targets “the representation’s ability to retain and generalize information learned about a changing domain.”
 Essentially, Reisinger et al. assesses evolvability as the correlation between the bias towards viable variation exhibited by an evolving system and the amount of information on the fitness structure of an environment the representation receives.
 Reisinger et al. work with temporally varying fitness functions, where fitness criteria are adjusted from generation to generation.
