@@ -1,7 +1,8 @@
 BASENAMES=$(notdir $(basename $(wildcard post/*.md)))
 OUTFILES= $(foreach dir,${BASENAMES}, out/${dir}.pdf)
+OUTFILESMD= $(foreach dir,${BASENAMES}, out/${dir}.md)
 
-all: ${OUTFILES}
+all: ${OUTFILES} ${OUTFILESMD}
 
 out:
 		mkdir $@
