@@ -29,23 +29,17 @@ Although the phenotypic consequences of mutations affecting somatotropin pathway
 References
 ----------
 <a name="Coyne1987LackMelanogaster">
-Coyne, J. A. (1987). Lack of response to selection for direction asymmetry in Drosophila
-melanogaster. Journal of Heredity, 78(119).
+Coyne, J. A. (1987). Lack of response to selection for direction asymmetry in Drosophila melanogaster. Journal of Heredity, 78(119).
 </a>
 
 <a name="Devesa2016MultipleGrowth">
-Devesa, J., Almenglo, C., and Devesa, P. (2016). Multiple Effects of Growth Hormone
-in the Body: Is it Really the Hormone for Growth? Clinical medicine insights. Endocrinology and diabetes,
-9:47–71.
+Devesa, J., Almenglo, C., and Devesa, P. (2016). Multiple Effects of Growth Hormone in the Body: Is it Really the Hormone for Growth? Clinical medicine insights. Endocrinology and diabetes, 9:47–71.
 </a>
 
-<a name="Tuinstra1990LackDevelopment"> Tuinstra, E., De Jong, G., and Scharloo, W. (1990). Lack of response to family
-selection for direction asymmetry in Drosophila melanogaster: left and right are not distinguished during
-development. Proc. R. Soc. Lond. B, 241(1301):146–152.
+<a name="Tuinstra1990LackDevelopment">
+Tuinstra, E., De Jong, G., and Scharloo, W. (1990). Lack of response to family selection for direction asymmetry in Drosophila melanogaster: left and right are not distinguished during development. Proc. R. Soc. Lond. B, 241(1301):146–152.
 </a>
 
 <a name="Rimbault2013DerivedBreeds">
-Rimbault, M., Beale, H. C., Schoenebeck, J. J., Hoopes, B. C., Allen, J. J., KilroyGlynn,
-P., Wayne, R. K., Sutter, N. B., and Ostrander, E. A. (2013). Derived variants at six genes explain
-nearly half of size reduction in dog breeds. Genome research, 23(12):1985–95.
+Rimbault, M., Beale, H. C., Schoenebeck, J. J., Hoopes, B. C., Allen, J. J., KilroyGlynn, P., Wayne, R. K., Sutter, N. B., and Ostrander, E. A. (2013). Derived variants at six genes explain nearly half of size reduction in dog breeds. Genome research, 23(12):1985–95.
 </a>
