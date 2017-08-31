@@ -1,43 +1,25 @@
-Defining Evolvability
-=====================
+Introduction
+============
 
-While biological phenotypic adaptation is indeed spectacular, another marvel of biology lurks just below the parade of phenotypes well-suited to their respective environments.
-It is hypothesized that biological organisms exhibit adaptation to the evolutionary process itself, not just to their environment over the course of their lifespans.
-That is, biological organisms are thought to possess traits that facilitate successful evolutionary search.
-The term evolvability was coined to describe such traits.
-A general consensus exists in the literature that evolvability stems from traits that facilitate the generation of *novel* heritable phenotypic variation that is *viable*.[^1] Evolvability can be conceived of concretely by imagining a gallery of offspring as depicted in Figure `arabidopsis_mutants` [[Griffiths, 2015]](#Griffiths2015IntroductionAnalysis).
-Evolvability is determined by the composition of this gallery, the degree to which variation introduced by mutation is deleterious and the amount of phenotypic diversity observed among the offspring in the gallery.
-An organism among whose potential offspring exist a nontrivial number of individuals that have relatively fit phenotypic forms that exhibit significant structural diversity among themselves and in relation to their parent is highly evolvable.
+I like digital evolution because it necessitates the examination of fundamental assumptions of what is necessary for evolution.
+Building a digital evolution system, a researcher must work out how the phenotypes that are being evolved should be genetically encoded.
+Thus, the question is raised: how do genetic encodings for digital evolution systems influence the evolutionary process within these systems?
+I think this question is really interesting!
+Better understanding this question also has practical implications for digital evolution, as well.
+So, I picked it up as the topic for my undergraduate thesis.
 
-Breaking the concept down, evolvability stems from:
+As I dug in, I realized that the question of genetic encoding was part of a larger question: evolvability.
+In addition to the question of how the genetic encoding scheme affects the evolutionary process, evolvability encompasses questions of how the actual content of the genotype can affect the evolutionary process.
+Consider, for example, a phenotype that, under a particular genetic encoding scheme, might be encoded by two distinct genotypes.
+How might the evolutionary implications of these different genotypes differ?
 
-1.
- the amount of *novel*, heritable phenotypic variation among offspring,
+Although my initial entree was from the perspective of digital evolution, I found a biological perspective to be especially rich for discussion of many aspects of evolvability.
+The idea that the structure of biological organisms, in addition to facilitating immediate functionality over an organism's lifespan, also have properties that facilitate the evolutionary process caught and held my attention.
+Because I had never directly thought along those lines before, I found it especially interesting (and cool!) to think about how, beyond their immediate functionality, biological structure affects the phenotypic outcomes of genetic perturbation.
+So, the scope of my thesis expanded to review and organize the ideas both biologists and digital evolution practitioners have developed to understand what evolvability is and where it comes from.
 
-2.
- the degree to which heritable phenotypic variation among offspring is *viable*,[^2]
-
-The dependence of evolution on these capacities is straightforward.
-Without any heritable variation, evolution would have no raw material to select from and would stagnate.
-Without any viable variation, evolution would select against all novelty and again stagnate.
-Hence, systematic evolutionary change depends the production of heritable, novel phenotypic variation, some of which must not be severely deleterious.
-We have established plausible traits that might facilitate evolution, but several important questions remain unanswered.
-How does evolvability manifest in biological organisms (i.e.
-what traits of biological organisms provide explanations for the presence of viable heritable variation among offspring)? Why does evolvability manifest (i.e.
-what ultimate mechanistic forces endow biological organisms with traits that promote evolvability)? Addressing these two questions gives us a shot at tackling a third: how can evolvability be promoted in evolutionary algorithms? We will proceed to explore these questions, but let’s begin by priming our intuition for evolvability by considering an artificial selection experiment performed on *Drosophila melangoster*, common fruit flies.
-
-![Wild-type and mutant strains of *Arabidopsis thaliana* ](http://devosoft.org/wp-content/uploads/2017/08/arabidopsis_mutations.png)
-
-[^1]: This statement does not suggest that mutation is nonrandom, a controversial and widely discredited theory referred to biologists as adaptive mutation.
-Instead, it is predicated on the notion that the internal configuration of a biological system (i.e.
-the developmental process, modularity, degeneracy, etc.) constrains the outcomes of arbitrary perturbations to that system.
-It is hypothesized that biological organisms possess traits that influence the distribution of phenotypic effects of random mutation.
-
-[^2]: This can be thought of in terms of the frequency at which lethal or otherwise severely harmful mutational outcomes are observed.
-
-References
-----------
-<a name="Griffiths2015IntroductionAnalysis">
-Griffiths, A. J. F., Wessler, S. R., Carroll, S. B., and Doebley, J. F. (2015). Introduction
-to genetic analysis
-</a>
+Over the course of a series of posts, I'll be sharing an overview of evolvability, drawing from that thesis.
+I'll define and illustrate examples of a number of concepts related to evolvability.
+Along the way, I'll also discuss how these concepts are related to one another and share the conceptual framework that I use to organize them.
+The first step, though, is to rigorously define evolvability itself.
+So, let's start!
