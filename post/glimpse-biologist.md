@@ -24,11 +24,10 @@ The regulatory action of hormonal signals such as somatotropin exemplify such a 
 This compound, also known as growth hormone, is well known for its widespread anabolic effects on tissues throughout the body.
 Mutations affecting the regulatory pathways that regulate somatotropin production and release, receptors and cell signaling components that mediate cellular response to somatotropin, and the protein itself all provide avenues for significant heritable variation in body size [[Devesa et al., 2016]](#Devesa2016MultipleGrowth).[^1] The presence of such hormonal signaling pathways could be viewed as making a broad range of heritable phenotypic variation more readily realizable via mutation, increasing individual evolvability.
 Dog breeds, which exhibit a range of body weights nearly spanning an entire order of magnitude, evidence the accessibility of heritable variation for body size in animals.
-Figure 2
 Among certain groups of dogs, much of this variation can be explained by just six genes, several of which are associated with pathways somatotropin participates in [[Rimbault et al., 2013]](#Rimbault2013DerivedBreeds).
 
-![image](http://devosoft.org/wp-content/uploads/2017/08/canalization_example.png)
-Figure 2 *A cartoon comparison of Shetland Sheepdogs and Collies that illustrates the diversity of heritable body size among dogs. (TODO Will update image when I draw it)*
+<img src="http://devosoft.org/wp-content/uploads/2017/10/collie-sheltie.png" style="height: 400px;"/> </br>
+Figure 2 *A cartoon comparison of Shetland Sheepdogs and Collies that illustrates the diversity of heritable body size among dogs.*
 
 [^1]: Recent research implicates somatotropin in a number of processes unrelated to its classical association with metabolism and growth.
 Although the phenotypic consequences of mutations affecting somatotropin pathways are not exclusively limited to body size, somatotropin response nonetheless provides an avenue for heritable phenotypic variation in that regard.
