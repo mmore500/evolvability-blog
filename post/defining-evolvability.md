@@ -1,6 +1,9 @@
 Defining Evolvability
 =====================
 
+![A collage of biological phenotypes](http://devosoft.org/wp-content/uploads/2017/10/phenotype-collage.jpg)
+*Some of my favorite biological phenotypes... biased towards cooperative photographic subjects!*
+
 While biological phenotypic adaptation is indeed spectacular, another marvel of biology lurks just below our appreciation for phenotypes well-suited to their respective environments.
 It is hypothesized that biological organisms exhibit adaptation to the evolutionary process itself, not just to their environment over the course of their lifespans.
 That is, biological organisms are thought to possess traits that facilitate the evolutionary process.
@@ -27,7 +30,7 @@ Reviewing explicitly, evolvability stems from:
 2.
  the degree to which heritable phenotypic variation among offspring is *viable*,[^2]
 
-These twin capacities are essential to evolution search.
+These twin capacities are essential to evolutionary search.
 Without any heritable variation, evolution would have no raw material to select from and would stagnate.
 Without any viable variation, evolution would select against all novelty and again stagnate.
 Hence, evolutionary innovation depends the production of heritable, novel phenotypic variation, some of which must not be severely deleterious.
@@ -47,7 +50,7 @@ How does evolvability manifest in biological organisms (i.e.
 what traits of biological organisms provide explanations for the presence of viable heritable variation among offspring)?
 Why does evolvability manifest (i.e. what ultimate mechanistic forces endow biological organisms with traits that promote evolvability)?
 Addressing these two questions gives us a shot at tackling a third: how can evolvability be promoted in evolutionary algorithms?
-We will proceed to explore these questions, but first we will begin by continuing to priming our intuition for evolvability by considering an artificial selection experiment performed on *Drosophila melangoster*, common fruit flies.
+We will proceed to explore these questions, but first we will begin by continuing to prime our intuition for evolvability by considering an artificial selection experiment performed on *Drosophila melangoster*, common fruit flies.
 
 [^1]: This statement does not suggest that mutation is nonrandom, a controversial and widely discredited theory referred to biologists as adaptive mutation.
 Instead, it is predicated on the notion that the internal configuration of a biological system (i.e. the developmental process, modularity, degeneracy, etc.) constrains the outcomes of arbitrary perturbations to that system.
