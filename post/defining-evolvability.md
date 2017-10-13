@@ -3,7 +3,7 @@ Defining Evolvability
 =====================
 
 ![A collage of biological phenotypes](http://devosoft.org/wp-content/uploads/2017/10/phenotype-collage.jpg)
-*Some of my favorite biological phenotypes... biased towards cooperative photographic subjects!*
+**Figure 1** *Some of my favorite biological phenotypes... biased towards cooperative photographic subjects!*
 
 While biological phenotypic adaptation is indeed spectacular, another marvel of biology lurks just below our appreciation for phenotypes well-suited to their respective environments.
 It is hypothesized that biological organisms exhibit adaptation to the evolutionary process itself, not just to their environment over the course of their lifespans.
@@ -11,7 +11,7 @@ That is, biological organisms are thought to possess traits that facilitate the 
 The term evolvability was coined to describe such traits.
 A general consensus exists in the literature that evolvability stems from traits that facilitate the generation of *novel* heritable phenotypic variation that is *viable*.[^1]
 
-We can conceive of evolvability concretely by imagining a gallery of offspring from a particular parental organism, as depicted in Figure `arabidopsis_mutants` [[Griffiths, 2015]](#Griffiths2015IntroductionAnalysis).
+We can conceive of evolvability concretely by imagining a gallery of offspring from a particular parental organism, as depicted in Figure 2.
 This gallery reflects the phenotypic outcomes of genetic perturbation of the parental organism.
 As we look through the gallery of offspring, we can ask a number of questions to assess the degree to which variation introduced by mutation is deleterious.
 At what frequency are lethal outcomes observed?
@@ -22,6 +22,7 @@ How often are radical phenotypic changes observed?
 Importantly, we can also investigate the frequency at which phenotypic variation that is both viable and novel is observed.
 
 ![Wild-type and mutant strains of *Arabidopsis thaliana* from [Griffiths, 2015] ](http://devosoft.org/wp-content/uploads/2017/08/arabidopsis_mutations.png)
+**Figure 2** *Wild-type and mutant strains of* Arabidopsis thaliana *from* [[Griffiths, 2015]](#Griffiths2015IntroductionAnalysis).
 
 Reviewing explicitly, evolvability stems from:
 
