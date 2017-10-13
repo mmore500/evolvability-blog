@@ -1,3 +1,4 @@
+
 Defining Evolvability
 =====================
 
@@ -37,12 +38,17 @@ Hence, evolutionary innovation depends the production of heritable, novel phenot
 
 Unfortunately, evolvability has become a bit of a chameleon term in the literature.
 It has been used to describe a constellation of related ideas.
-Evolvability can be discussed in terms of both *viability* and *novelty* in isolation from one another.
-In this sense, an organism with offspring that tend to be viable or tend to express novel phenotypic characteristics might be described as evolvable.
-Evolvability can also be discussed in terms of the intersection of *viability* and *novelty*.
+Evolvability can be discussed in terms of the amount of standing genetic variation in a population available for selection to act on
+[[Flatt, 2005]](#Flatt2005TheCanalization).
+This definition of evolvability is closely related to the classic concept of heritability [[Pigliucci, 2008]](#Pigliucci2008IsEvolvable).
+In contrast to this population level take on evolvability, the term can also be conceived of on the scale of an individual.
+This notion of evolvability is concerned with the phenotypic outcomes observed under genetic perturbation of an individual
+[[Tarapore and Mouret, 2015]](#Tarapore2015EvolvabilityBenchmarks).
+Evolvability can be discussed in terms of either *viability* of offspring or *novelty* of offspring [[Reisinger et al., 2005]](#Reisinger2005TowardsEvolvability) [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability).
+In these frameworks, an organism with offspring that tend to be viable or an organism that tends to express novel phenotypic characteristics might be described as evolvable.
+Evolvability can also be discussed in terms of the intersection of offspring *viability* and *novelty* [[Tarapore and Mouret, 2015]](#Tarapore2015EvolvabilityBenchmarks).
 Framed this way, an organism among whose potential offspring exist a nontrivial proportion of relatively fit individuals that exhibit significant phenotypic diversity among themselves and in relation to their parent is considered evolvable.
-Finally, evolvability can be discussed from a more functional perspective.
-Evolvability might be assessed through this lens by considering the ability of a population to achieve evolutionary innovation over a longer term.
+Finally, evolvability can be discussed from a more functional perspective where evolvability is described as the ability of a population to achieve adaptation over a shorter term or evolutionary innovation over a longer term.
 We will return to discussing these different perspectives on evolvability in more detail later on.
 
 Defining evolvability leaves many questions open.
@@ -60,7 +66,29 @@ It is hypothesized that biological organisms possess traits that influence the d
 
 References
 ----------
+<a name="Flatt2005TheCanalization">
+Flatt, T. (2005). The evolutionary genetics of canalization. The quarterly review of biology, 80(3), 287-316.
+Chicago
+</a>
+
 <a name="Griffiths2015IntroductionAnalysis">
-Griffiths, A. J. F., Wessler, S. R., Carroll, S. B., and Doebley, J. F. (2015). Introduction
-to genetic analysis
+Griffiths, A., Wessler, S., Carroll, S. & Doebley, J. (2015). Introduction to genetic analysis. New York, NY: W.H. Freeman & Company.
+</a>
+
+<a name="Pigliucci2008IsEvolvable">
+Pigliucci, M. (2008). Is evolvability evolvable?. Nature reviews. Genetics, 9(1), 75.
+</a>
+
+<a name="Reisinger2005TowardsEvolvability">
+Reisinger, J., Stanley, K. O., and Miikkulainen, R. (2005). Towards an Empirical
+Measure of Evolvability. GECCO05 Proceedings.
+</a>
+
+<a name="Tarapore2015EvolvabilityBenchmarks">
+Tarapore, D., & Mouret, J. B. (2015). Evolvability signatures of generative encodings: beyond standard performance benchmarks. Information Sciences, 313, 43-61.
+</a>
+
+<a name="Wilder2015ReconcilingEvolvability">
+Wilder, B. and Stanley, K. (2015). Reconciling explanations for the evolution of
+evolvability. Adaptive Behavior, 23(3):171–179.
 </a>
