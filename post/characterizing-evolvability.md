@@ -11,10 +11,10 @@ Although individual and population evolvability might be correlated to some exte
 As Wilder et. al admonish, “population-level evolvability is not equal to the sum over individual evolvability because the novel phenotypes contributed by different individuals may be redundant.” [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability)
 The difference between these two types of evolvability is more than semantic;
 it is thought that population-level evolvability is a much stronger indication of the ability of an evolutionary process to widely explore its search space, discover adaptive variability, and, ultimately, to generate highly-adapted individuals.
-Wilder et. al argue this point convincingly,
+Wilder and Stanley argue this point convincingly,
 
 > On the one hand, evolvable individuals are more likely than others to introduce phenotypic variation in their offspring.
-> On the other hand, in evolvable populations a greater amount of phenotypic variation is accessible to the population as a whole, regardless of how evolvable any individual may be in isolation [[]](#Wilder2015ReconcilingEvolvability).
+> On the other hand, in evolvable populations a greater amount of phenotypic variation is accessible to the population as a whole, regardless of how evolvable any individual may be in isolation [[Wilder and Stanley, 2015]](#Wilder2015ReconcilingEvolvability).
 
 Population evolvability and individual evolvability stem from a different set of proximal causes.
 An individual with high individual evolvability occupies a region of the genotypic space that maps to a highly variable set of phenotypes; thus, a highly diverse set of phenotypes may be easily reached via small changes in the genotype space.
