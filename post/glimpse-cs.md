@@ -1,6 +1,9 @@
 Introductory Glimpses of Evolvability for Computer Scientists
 =============================================================
 
+How can the structure of an evolving organism affect the phenotypic outcomes of mutational perturbation?
+We will walk through a thought example that casts this question in a light more familiar to programmers.
+
 Computer scientists who have worked on software understand that two pieces of code that meet identical specifications — return identical output for any input given — can differ vastly in difficulty to extend, modify, or maintain.
 Software implementation, internal structures largely invisible from the perspective of an external interface, accounts for this discrepancy.
 Computer scientists use the derogatory phrase “spaghetti code” to describe software that is perhaps functional but implemented with such a convoluted control structure that making changes that result in a desired functional outcome becomes very difficult.
@@ -15,6 +18,9 @@ It is not inconceivable that the internal configuration of your code base — th
 — would affect the outcomes of arbitrary changes made by your junior developers.
 If the code were structured as a single source file without exception handling, arbitrary changes to the code might be expected to fundamentally break the software more frequently.
 If styling information were factored out to a separate specification instead of provided individually for each element of the graphical user interface, arbitrary changes to the code might be expected more frequently to cause large non-lethal alterations to the software product by changing the styles of many aspects of the graphical user interface in one go.
+
+![image](http://devosoft.org/wp-content/uploads/2017/10/spaghetti-monkey.png)
+Figure 1 *Spaghetti code and proper code might yield different distributions of outcomes from arbitrary changes to the software.*
 
 The intent of this thought experiment is not to equate biological evolution and software design.
 These two processes differ fundamentally on several levels.

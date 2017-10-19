@@ -19,7 +19,11 @@ Artificial selection experiments performed by Tuinstra et al. and Coyne nicely i
 In these experiments, performed with fruit flies, researchers were able to successfully select for bilaterally symmetric phentoypic criteria, such as overall smaller eyes, but were unable to successfully select for bilaterally asymmetric phentoypic traits, such as different-sized eyes.
 That is, selective breeding for bilaterally symmetric traits yielded observable phenotypic changes of the course of a number of generations while selective breeding for bilaterally asymetric traits did not.
 In contrast, other artificial selection criteria, such as overall smaller eyes, yielded observable phenotypic changes over the course of a number of generations.
-A cartoon summarizing these results is provided in Figure `fly_canalization`.
+A cartoon summarizing these results is provided in Figure 1.
+
+![image](http://devosoft.org/wp-content/uploads/2017/08/canalization_example.png)
+Figure 1 *A cartoon summarizing the results of artificial selection experiments on *Drosophila*. Bilaterally symmetric eye traits could be successfully selected for while bilaterally asymmetric eye traits could not.*
+
 
 The success of artificial selection for bilaterally symmetric traits on *Drosophila* demonstrates the presence of heritable phenotypic variation for those traits.
 Likewise, the failure of artificial selection for bilaterally asymmetric traits on *Drosophila* suggests a scarcity of heritable phenotypic variation for those traits.
@@ -42,7 +46,8 @@ Mutations affecting the regulatory pathways that regulate somatotropin productio
 Dog breeds, which exhibit a range of body weights nearly spanning an entire order of magnitude, evidence the accessibility of heritable variation for body size in animals.
 Among certain groups of dogs, much of this variation can be explained by just six genes, several of which are associated with pathways somatotropin participates in [[Rimbault et al., 2013]](#Rimbault2013DerivedBreeds).
 
-![Canalization in *Drosophila melangoster* In Artificial Selection Experiments]{This cartoon depicts an artificial selection experiment on *Drosophila melangoster*. In treatment i, selection is made for a bilaterally symmetric trait --- overall decreased eye size. Because this bilaterally symmetric trait can be produced through heritable variation, artificial selection succeeds. In treatment ii, artificial selection for a non-bilaterally symmetric trait --- relatively smaller right eye size --- fails because, due to the nature of the development process of *Drosophila*, heritable variation that produces this trait is not readily possible.](http://devosoft.org/wp-content/uploads/2017/08/canalization_example.png)
+<img src="http://devosoft.org/wp-content/uploads/2017/10/collie-sheltie.png" style="height: 400px;"/> </br>
+Figure 2 *A cartoon comparison of Shetland Sheepdogs and Collies that illustrates the diversity of heritable body size among dogs.*
 
 [^1]: Recent research implicates somatotropin in a number of processes unrelated to its classical association with metabolism and growth.
 Although the phenotypic consequences of mutations affecting somatotropin pathways are not exclusively limited to body size, somatotropin response nonetheless provides an avenue for heritable phenotypic variation in that regard.

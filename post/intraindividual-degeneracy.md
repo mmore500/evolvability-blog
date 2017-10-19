@@ -54,6 +54,6 @@ complex system engineering: A survey. In 2015 IEEE Congress on Evolutionary Comp
 </a>
 
 <a name="Whitacre2010Degeneracy">
-[Whitacre and Bender, 2010] Whitacre, J. and Bender, A. (2010). Degeneracy: A design principle for achieving
+Whitacre, J. and Bender, A. (2010). Degeneracy: A design principle for achieving
 robustness and evolvability. Journal of Theoretical Biology
 </a>
