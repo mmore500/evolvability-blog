@@ -1,23 +1,23 @@
 Introductory Glimpses of Evolvability for Biologists
 ====================================================
 
-The idea that phenotypic outcomes of mutation are non-arbitrary can be unfamilar, or even uncomfortable, to biologists [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
+The idea that phenotypic outcomes of mutation are non-arbitrary can be unfamiliar, or even uncomfortable, to biologists [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
 It is dogma in evolutionary biology that genetic mutation is random.
-The randomness of genetic mutation is well-founded, the alterative --- the theory of adaptive mutation --- is controversial and widely discredited.
+The randomness of genetic mutation is well-founded, the alternative --- the theory of adaptive mutation --- is controversial and widely discredited.
 Suggesting that the outcome of mutation is non-arbitrary .
 The key difference is that adaptive mutation hypothesizes that genetic mutation is non-arbitrary while discussions of evolvability center on the idea that the phenotypic outcomes of mutation are non-arbitrary.
 
 Even with this potential misunderstanding ironed out, the idea that phenotypic outcomes of mutation are non-arbitrary can still seem abstract or counterintuitive.
 Biologists Kirschner and Gerhart explain that many biologists assume
-"phenotypic variation arises haphazardly from it [random mutation] as random damage; the organism's curernt phenotype does not matter for the variation produced, and the output of variation is nearly random.''
+"phenotypic variation arises haphazardly from it [random mutation] as random damage; the organism's current phenotype does not matter for the variation produced, and the output of variation is nearly random."
 Developing an intuition for evolvability requires moving towards a more sophisticated notion of the phenotypic consequences of mutation.
-This section will present a pair of biological examples of non-arbitrary outcomes under mutation, the first illustrating non-arbitrary outcomes in relation to phenotpic viability and the second illustrating non-arbitrary outcomes in relation to phenotypic novelty.
+This section will present a pair of biological examples of non-arbitrary outcomes under mutation, the first illustrating non-arbitrary outcomes in relation to phenotypic viability and the second illustrating non-arbitrary outcomes in relation to phenotypic novelty.
 
 Artificial Selection for Asymmetry in *Drosophila*
 --------------------------------------------------
-Artificial selection experiments performed by Tuinstra et al. and Coyne nicely illustrate the non-arbitrary nature of phentoypic variation.
-In these experiments, performed with fruit flies, researchers were able to successfully select for bilaterally symmetric phentoypic criteria, such as overall smaller eyes, but were unable to successfully select for bilaterally asymmetric phentoypic traits, such as different-sized eyes.
-That is, selective breeding for bilaterally symmetric traits yielded observable phenotypic changes of the course of a number of generations while selective breeding for bilaterally asymetric traits did not.
+Artificial selection experiments performed by Tuinstra et al. and Coyne nicely illustrate the non-arbitrary nature of phenotypic variation.
+In these experiments, performed with fruit flies, researchers were able to successfully select for bilaterally symmetric phenotypic criteria, such as overall smaller eyes, but were unable to successfully select for bilaterally asymmetric phenotypic traits, such as different-sized eyes.
+That is, selective breeding for bilaterally symmetric traits yielded observable phenotypic changes of the course of a number of generations while selective breeding for bilaterally asymmetric traits did not.
 In contrast, other artificial selection criteria, such as overall smaller eyes, yielded observable phenotypic changes over the course of a number of generations.
 A cartoon summarizing these results is provided in Figure 1.
 
@@ -33,8 +33,8 @@ As Tuinstra et al. phrase it, “the developmental system does not seem to allow
 In this way, the distribution of phenotypic diversity in offspring is biased away from asymmetric variation.
 
 The results from these artificial selection experiments can be cast in terms of evolvability: in *Drosophila*, the distribution of phenotypic outcomes in under mutation is not entirely arbitrary.
-More speficially, it could be claimed that phenotypic outcomes under mutation are biased toward viability.
-For *Drosophila*, it would not be unreasonable to expect bilaterally symmetric flies to generally be more fit than bilaterally asymetric flies.
+More specifically, it could be claimed that phenotypic outcomes under mutation are biased toward viability.
+For *Drosophila*, it would not be unreasonable to expect bilaterally symmetric flies to generally be more fit than bilaterally asymmetric flies.
 The likely more fit bilaterally symmetric phenotypic outcomes are exactly what we see favored by developmental constraint in *Drosophila*.
 
 Heritable Variation for Body Size in Dogs
