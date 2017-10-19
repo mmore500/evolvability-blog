@@ -10,7 +10,7 @@ The key difference is that adaptive mutation hypothesizes that genetic mutation 
 
 Even with this potential misunderstanding ironed out, the idea that phenotypic outcomes of mutation are non-arbitrary can still seem abstract or counterintuitive.
 Biologists Kirschner and Gerhart explain that many biologists assume
-"phenotypic variation arises haphazardly from it [random mutation] as random damage; the organism's current phenotype does not matter for the variation produced, and the output of variation is nearly random."
+"phenotypic variation arises haphazardly from it [random mutation] as random damage; the organism's current phenotype does not matter for the variation produced, and the output of variation is nearly random" [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
 Developing an intuition for evolvability requires moving towards a more sophisticated notion of the phenotypic consequences of mutation.
 This section will present a pair of biological examples of non-arbitrary outcomes under mutation, the first illustrating non-arbitrary outcomes in relation to phenotypic viability and the second illustrating non-arbitrary outcomes in relation to phenotypic novelty.
 
