@@ -3,7 +3,7 @@ Introductory Glimpses of Evolvability for Biologists
 
 The idea that phenotypic outcomes of mutation are non-arbitrary can be unfamiliar, or even uncomfortable, to biologists [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
 It is consensus among evolutionary biologists that genetic mutation is random.
-The alternative --- the theory of adaptive mutation --- is controversial and widely discredited.
+The alternative --- the theory of adaptive mutation --- is controversial and widely discredited [[Sniegowski and Lenski, 1995]](#Sniegowski1995MutationPerspective).
 It is therefore essential to note that discussions of evolvability are *not* predicated on adaptive mutation.
 The key difference is that adaptive mutation hypothesizes that genetic mutation is non-arbitrary while discussions of evolvability center on the idea that the phenotypic outcomes of mutation are non-arbitrary.
 
@@ -77,4 +77,8 @@ Tuinstra, E., De Jong, G., and Scharloo, W. (1990). Lack of response to family s
 
 <a name="Rimbault2013DerivedBreeds">
 Rimbault, M., Beale, H. C., Schoenebeck, J. J., Hoopes, B. C., Allen, J. J., KilroyGlynn, P., Wayne, R. K., Sutter, N. B., and Ostrander, E. A. (2013). Derived variants at six genes explain nearly half of size reduction in dog breeds. Genome research, 23(12):1985–95.
+</a>
+
+<a name="Sniegowski1995MutationPerspective">
+Sniegowski, P. D., and R. E. Lenski. "Mutation and Adaptation: The Directed Mutation Controversy in Evolutionary Perspective." Annual Review of Ecology and Systematics, vol. 26, no. 1, 1995, pp. 553-578.
 </a>
