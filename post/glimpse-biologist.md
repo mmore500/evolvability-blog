@@ -2,14 +2,13 @@ Introductory Glimpses of Evolvability for Biologists
 ====================================================
 
 The idea that phenotypic outcomes of mutation are non-arbitrary can be unfamiliar, or even uncomfortable, to biologists [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
-It is dogma in evolutionary biology that genetic mutation is random.
-This dogma is well-founded;
-the alternative --- the theory of adaptive mutation --- is controversial and widely discredited.
+It is consensus among evolutionary biologists that genetic mutation is random.
+The alternative --- the theory of adaptive mutation --- is controversial and widely discredited.
 It is therefore essential to note that discussions of evolvability are *not* predicated on adaptive mutation.
 The key difference is that adaptive mutation hypothesizes that genetic mutation is non-arbitrary while discussions of evolvability center on the idea that the phenotypic outcomes of mutation are non-arbitrary.
 
 Even with this potential misunderstanding ironed out, the idea that phenotypic outcomes of mutation are non-arbitrary can still seem abstract or counterintuitive.
-Biologists Kirschner and Gerhart explain that many biologists assume
+Biology authors Kirschner and Gerhart explain that many biologists assume
 "phenotypic variation arises haphazardly from it [random mutation] as random damage; the organism's current phenotype does not matter for the variation produced, and the output of variation is nearly random" [[Kirschner and Gerhart, 2005, p 219]](#Kirschner2005TheDilemma).
 Developing an intuition for evolvability requires moving towards a more sophisticated notion of the phenotypic consequences of mutation.
 This section will present a pair of biological examples of non-arbitrary outcomes under mutation, the first illustrating non-arbitrary outcomes in relation to phenotypic viability and the second illustrating non-arbitrary outcomes in relation to phenotypic novelty.
